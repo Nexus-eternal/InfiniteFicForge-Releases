@@ -1,0 +1,17 @@
+{
+  "artifacts": [
+    {
+      "filename": "README.md",
+      "kind": "archive",
+      "platform": "windows-x64",
+      "sha256": "3d4d33c07bd8ca18812662f101899eac4c92ba6f45fd899dd5bf9c6edba35ea3",
+      "size": 654,
+      "url": "https://raw.githubusercontent.com/Nexus-eternal/InfiniteFicForge-Releases/main/README.md"
+    }
+  ],
+  "channel": "stable",
+  "product": "Infinite Fic Forge",
+  "schema_version": 1,
+  "tag": "v0.14.1",
+  "version": "0.14.1"
+}
