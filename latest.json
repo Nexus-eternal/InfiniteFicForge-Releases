@@ -1,17 +1,33 @@
 {
   "artifacts": [
     {
-      "filename": "README.md",
+      "filename": "InfiniteFicForge-1.0.0-Setup.exe",
+      "kind": "installer",
+      "platform": "windows-x64",
+      "sha256": "cf417028d5d4a1ff7c7297ea59c313fb8246f2809ace22b9ddeea8409baeb250",
+      "size": 97135047,
+      "url": "https://github.com/Nexus-eternal/InfiniteFicForge-Releases/releases/download/v1.0.0/InfiniteFicForge-1.0.0-Setup.exe"
+    },
+    {
+      "filename": "InfiniteFicForge-1.0.0-portable-windows-x64.zip",
+      "kind": "portable",
+      "platform": "windows-x64",
+      "sha256": "887077f565d5da3ef6bbbf04acbd462704ffb128a4871ba2be5783f1aab84ec6",
+      "size": 64981869,
+      "url": "https://github.com/Nexus-eternal/InfiniteFicForge-Releases/releases/download/v1.0.0/InfiniteFicForge-1.0.0-portable-windows-x64.zip"
+    },
+    {
+      "filename": "InfiniteFicForge-1.0.0-windows-x64.zip",
       "kind": "archive",
       "platform": "windows-x64",
-      "sha256": "3d4d33c07bd8ca18812662f101899eac4c92ba6f45fd899dd5bf9c6edba35ea3",
-      "size": 654,
-      "url": "https://raw.githubusercontent.com/Nexus-eternal/InfiniteFicForge-Releases/main/README.md"
+      "sha256": "dd1100fa235b62eb1b900e3278e20258cd654fe48c43002685c4358324844938",
+      "size": 64981235,
+      "url": "https://github.com/Nexus-eternal/InfiniteFicForge-Releases/releases/download/v1.0.0/InfiniteFicForge-1.0.0-windows-x64.zip"
     }
   ],
   "channel": "stable",
   "product": "Infinite Fic Forge",
   "schema_version": 1,
-  "tag": "v0.14.1",
-  "version": "0.14.1"
+  "tag": "v1.0.0",
+  "version": "1.0.0"
 }
